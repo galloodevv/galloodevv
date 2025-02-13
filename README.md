@@ -10,8 +10,8 @@
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30" style="margin: 15px;" />  
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" style="margin: 15px;" />  
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" style="margin: 15px;" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" style="margin: 15px;" />  
-  <img src="https://www.lua.org/images/lua-logo.gif" alt="Java" height="30" style="margin: 15px;" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="Heidi SQL" height="30" style="margin: 15px;" />  
+  <img src="https://www.lua.org/images/lua-logo.gif" alt="Lua" height="30" style="margin: 15px;" />  
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" style="margin: 15px;" />  
 </div>
 
