@@ -7,7 +7,7 @@
 
 ## **Languages I Work With:**
 <div align="center">
-  <img src="https://astro.build/assets/press/astro-logo-dark.svg" alt="Astro" height="30" style="margin: 15px;" />  
+  <img src="https://astro.build/assets/press/astro-logo-light-gradient.svg" alt="Astro" height="30" style="margin: 15px;" />  
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" height="30" style="margin: 15px;" />  
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" style="margin: 15px;" />  
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="Heidi SQL" height="30" style="margin: 15px;" />  
