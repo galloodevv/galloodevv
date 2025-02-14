@@ -13,7 +13,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="Heidi SQL" height="30" style="margin: 15px;" />  
   <img src="https://www.lua.org/images/lua-logo.gif" alt="Lua" height="30" style="margin: 15px;" />  
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" style="margin: 15px;" />
-  <img src="https://imgs.search.brave.com/QSQaW8_GfmxMXikaNizSzd8uMGTsQTxq7zcjmdAaMto/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi80LzRjL1R5/cGVzY3JpcHRfbG9n/b18yMDIwLnN2Zy82/NDBweC1UeXBlc2Ny/aXB0X2xvZ29fMjAy/MC5zdmcucG5n" alt="Node.js" height="30" style="margin: 15px;" /> 
+  <img src="https://astro.build/assets/press/astro-logo-light-gradient.svg" alt="Node.js" height="30" style="margin: 15px;" /> 
 </div> 
 
 ## **About Me:**
