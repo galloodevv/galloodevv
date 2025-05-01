@@ -14,7 +14,7 @@
   <img src="https://imgs.search.brave.com/BvifOY2BUIEc-rugkYEZpzeXqOf_QEzD9v978j9jPZY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTAvTHVhX0xv/Z28tNzAweDcwMC5w/bmc" alt="Lua" height="30" style="margin: 15px;" />  
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" style="margin: 15px;" />
   <img src="https://imgs.search.brave.com/QSQaW8_GfmxMXikaNizSzd8uMGTsQTxq7zcjmdAaMto/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi80LzRjL1R5/cGVzY3JpcHRfbG9n/b18yMDIwLnN2Zy82/NDBweC1UeXBlc2Ny/aXB0X2xvZ29fMjAy/MC5zdmcucG5n" alt="TypeScript" height="30" style="margin: 15px;" /> 
- <img src="https://img.shields.io/badge/-FiveM-8B8B8B?style=flat&logo=fivem&logoColor=white" alt="Astro" height="15" style="margin: 10px;" />  
+ <img src="https://img.shields.io/badge/-FiveM-8B8B8B?style=flat&logo=fivem&logoColor=white" alt="Astro" height="30" style="margin: 10px;" />  
 
 ## **About Me:**
 - 🔥 Always learning and experimenting with new tools and frameworks.  
