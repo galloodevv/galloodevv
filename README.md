@@ -23,6 +23,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=galloodevv&show_icons=true&theme=ayu-mirage" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galloodevv&layout=compact&theme=ayu-mirage" alt="Top Langs" />
 </p>
 
 ![snake gif](https://github.com/galloodevv/galloodevv/blob/output/github-snake-dark.svg)
