@@ -22,6 +22,6 @@
 - 🌟 Collaborator and open-source enthusiast.
 
 <p align="center">
-  <strong>"Code with passion, deliver with precision."</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=galloodevv&show_icons=true&theme=ayu-mirage" alt="Estadísticas de GitHub" />
 </p>
 
