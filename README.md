@@ -25,3 +25,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=galloodevv&show_icons=true&theme=ayu-mirage" alt="Estadísticas de GitHub" />
 </p>
 
+![snake gif](https://github.com/galloodevv/galloodevv/blob/output/github-contribution-grid-snake.gif)
