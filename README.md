@@ -7,14 +7,16 @@
 
 ## **Languages I Work With:**
 <div align="center">
-  <img src="https://astro.build/assets/press/astro-logo-light-gradient.svg" alt="Astro" height="30" style="margin: 15px;" />  
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" height="30" style="margin: 15px;" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" style="margin: 15px;" />  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="Heidi SQL" height="30" style="margin: 15px;" />  
-  <img src="https://imgs.search.brave.com/BvifOY2BUIEc-rugkYEZpzeXqOf_QEzD9v978j9jPZY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTAvTHVhX0xv/Z28tNzAweDcwMC5w/bmc" alt="Lua" height="30" style="margin: 15px;" />  
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" style="margin: 15px;" />
-  <img src="https://imgs.search.brave.com/QSQaW8_GfmxMXikaNizSzd8uMGTsQTxq7zcjmdAaMto/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi80LzRjL1R5/cGVzY3JpcHRfbG9n/b18yMDIwLnN2Zy82/NDBweC1UeXBlc2Ny/aXB0X2xvZ29fMjAy/MC5zdmcucG5n" alt="TypeScript" height="30" style="margin: 15px;" /> 
- <img src="https://img.shields.io/badge/-FiveM-8B8B8B?style=flat&logo=fivem&logoColor=white" alt="Astro" height="30" style="margin: 10px;" />  
+  <img src="https://img.shields.io/badge/Astro-9514FF?style=flat&logo=astro&labelColor=black" alt="Astro" height="30" style="margin: 15px;" />  
+  <img src="https://img.shields.io/badge/React-1491FF?style=flat&logo=react&labelColor=black" alt="React" height="30" style="margin: 15px;" />  
+  <img src="https://img.shields.io/badge/JavaScript-FCF80F?style=flat&logo=javascript&labelColor=black" alt="JavaScript" height="30" style="margin: 15px;" />  
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&labelColor=black" alt="Lua" height="30" style="margin: 15px;" />  
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&labelColor=black" alt="Node.js" height="30" style="margin: 15px;" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&labelColor=black" alt="TypeScript" height="30" style="margin: 15px;" /> 
+ <img src="https://img.shields.io/badge/-FiveM-8B8B8B?style=flat&logo=fivem&logoColor=white" alt="Fivem" height="30" style="margin: 10px;" /> 
+ <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js
+" alt="Fivem" height="30" style="margin: 10px;" />   
+      
 
 ## **About Me:**
 - 🔥 Always learning and experimenting with new tools and frameworks.  
