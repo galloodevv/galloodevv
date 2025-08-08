@@ -14,8 +14,7 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&labelColor=black" alt="Node.js" height="30" style="margin: 15px;" />
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&labelColor=black" alt="TypeScript" height="30" style="margin: 15px;" /> 
  <img src="https://img.shields.io/badge/-FiveM-8B8B8B?style=flat&logo=fivem&logoColor=white" alt="Fivem" height="30" style="margin: 10px;" /> 
- <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js
-" alt="Fivem" height="30" style="margin: 10px;" />   
+ <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat&logo=next.js" alt="Next.js" height="30" style="margin: 10px;" />    
       
 
 ## **About Me:**
