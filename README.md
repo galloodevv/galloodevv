@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e2340b&height=160&section=header&text=GalloDev&fontSize=42&fontColor=f3efe6&animation=fadeIn&fontAlignY=32&desc=Frontend+%26+FiveM+Developer&descAlignY=55&descSize=16&descAlign=50" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=e2340b&amp;height=160&amp;section=header&amp;text=GalloDev&amp;font=Outfit&amp;fontSize=42&amp;fontColor=f3efe6&amp;animation=fadeIn&amp;fontAlignY=32&amp;desc=Frontend+%26+FiveM+Developer&amp;descAlignY=55&amp;descSize=16&amp;descAlign=50" alt="header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&pause=1200&color=e2340b&center=true&vCenter=true&width=620&lines=Frontend+%26+FiveM+Developer;Modern+websites+%26+immersive+UI;Code+with+intention;Almer%C3%ADa%2C+Spain" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;weight=600&amp;pause=1200&amp;color=e2340b&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Frontend+%26+FiveM+Developer;Modern+websites+%26+immersive+UI;Code+with+intention;Almer%C3%ADa%2C+Spain" alt="typing intro" />
 
 <br/>
 
@@ -30,14 +30,7 @@
 ### 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=astro,react,nextjs,ts,js,tailwind,html,css,git,vscode&perline=5" alt="skills" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=181511&labelColor=f3efe6" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=181511" alt="Lua" />
-  <img src="https://img.shields.io/badge/FiveM-FF6B00?style=for-the-badge&logo=fivem&logoColor=white&labelColor=181511" alt="FiveM" />
-  <img src="https://img.shields.io/badge/Lenis-181511?style=for-the-badge&labelColor=181511&color=e2340b" alt="Lenis" />
+  <img src="https://skillicons.dev/icons?i=astro,react,nextjs,ts,js,tailwind,html,css,git,vscode,lua&amp;perline=6" alt="skills" />
 </p>
 
 ---
@@ -46,13 +39,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=galloodevv&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&theme=transparent&bg_color=181511&title_color=e2340b&icon_color=e2340b&text_color=f3efe6&border_radius=12&hide_border=false" alt="github stats" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=galloodevv&amp;show_icons=true&amp;rank_icon=percentile&amp;theme=transparent&amp;bg_color=181511&amp;title_color=e2340b&amp;icon_color=e2340b&amp;text_color=f3efe6&amp;border_radius=12&amp;hide_border=false" alt="github stats" height="175" />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=galloodevv&theme=transparent&background=181511&stroke=333&ring=e2340b&fire=e2340b&currStreakLabel=f3efe6&sideNums=f3efe6&sideLabels=f3efe6&dates=888&border_radius=12" alt="streak stats" height="175" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=galloodevv&amp;theme=transparent&amp;background=181511&amp;stroke=333&amp;ring=e2340b&amp;fire=e2340b&amp;currStreakLabel=f3efe6&amp;sideNums=f3efe6&amp;sideLabels=f3efe6&amp;dates=888&amp;border_radius=12" alt="streak stats" height="175" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galloodevv&layout=compact&langs_count=8&theme=transparent&bg_color=181511&title_color=e2340b&text_color=f3efe6&border_radius=12&hide_border=false" alt="top languages" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galloodevv&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;bg_color=181511&amp;title_color=e2340b&amp;text_color=f3efe6&amp;border_radius=12&amp;hide_border=false" alt="top languages" height="175" />
 
 </div>
 
@@ -62,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=galloodevv&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=galloodevv&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;margin-w=8&amp;margin-h=8" alt="trophies" />
 
 </div>
 
@@ -72,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=galloodevv&bg_color=181511&color=f3efe6&line=e2340b&point=f3efe6&area=true&hide_border=false&border_radius=12" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=galloodevv&amp;bg_color=181511&amp;color=f3efe6&amp;line=e2340b&amp;point=f3efe6&amp;area=true&amp;hide_border=false&amp;border_radius=12" alt="activity graph" />
 
 </div>
 
@@ -90,10 +83,10 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=galloodevv&label=Profile+views&color=e2340b&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=galloodevv&amp;label=Profile+views&amp;color=e2340b&amp;style=for-the-badge" alt="profile views" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=181511&height=100&section=footer&text=Designing+interfaces+that+look+good%2C+feel+right%2C+and+work+smoothly.&fontSize=14&fontColor=f3efe6&animation=fadeIn" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=181511&amp;height=100&amp;section=footer&amp;text=Designing+interfaces+that+look+good%2C+feel+right%2C+and+work+smoothly.&amp;font=Outfit&amp;fontSize=14&amp;fontColor=f3efe6&amp;animation=fadeIn" alt="footer" />
 
 </div>
