@@ -8,9 +8,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gallo--portfolio.vercel.app-e2340b?style=for-the-badge&logo=astro&logoColor=f3efe6&labelColor=181511)](https://gallo-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-galloodevv-181511?style=for-the-badge&logo=github&logoColor=f3efe6&labelColor=181511)](https://github.com/galloodevv)
-[![Email](https://img.shields.io/badge/Email-chetogallo77@gmail.com-e2340b?style=for-the-badge&logo=gmail&logoColor=f3efe6&labelColor=181511)](mailto:chetogallo77@gmail.com)
+<a href="https://gallo-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gallo--portfolio.vercel.app-e2340b?style=for-the-badge&amp;logo=astro&amp;logoColor=f3efe6&amp;labelColor=181511" alt="Portfolio" /></a>
+<a href="https://github.com/galloodevv"><img src="https://img.shields.io/badge/GitHub-galloodevv-181511?style=for-the-badge&amp;logo=github&amp;logoColor=f3efe6&amp;labelColor=181511" alt="GitHub" /></a>
+<a href="mailto:chetogallo77@gmail.com"><img src="https://img.shields.io/badge/Email-chetogallo77@gmail.com-e2340b?style=for-the-badge&amp;logo=gmail&amp;logoColor=f3efe6&amp;labelColor=181511" alt="Email" /></a>
 
 </div>
 
@@ -20,8 +20,8 @@
 
 ```txt
 🎨  Frontend developer — clean UI, strong typography, smooth interactions
-🌐  Web frontends with Astro, React, Tailwind & GSAP
-🎮  Custom FiveM UI / NUI — Lua, ESX & QBCore
+🌐  Web frontends with Astro, React, Tailwind and GSAP
+🎮  Custom FiveM UI / NUI — Lua, ESX and QBCore
 📍  Almería, Spain · Open to projects
 ```
 
@@ -41,21 +41,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=galloodevv&amp;show_icons=true&amp;rank_icon=percentile&amp;theme=transparent&amp;bg_color=181511&amp;title_color=e2340b&amp;icon_color=e2340b&amp;text_color=f3efe6&amp;border_radius=12&amp;hide_border=false" alt="github stats" height="175" />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=galloodevv&amp;theme=transparent&amp;background=181511&amp;stroke=333&amp;ring=e2340b&amp;fire=e2340b&amp;currStreakLabel=f3efe6&amp;sideNums=f3efe6&amp;sideLabels=f3efe6&amp;dates=888&amp;border_radius=12" alt="streak stats" height="175" />
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galloodevv&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;bg_color=181511&amp;title_color=e2340b&amp;text_color=f3efe6&amp;border_radius=12&amp;hide_border=false" alt="top languages" height="175" />
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=galloodevv&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;margin-w=8&amp;margin-h=8" alt="trophies" />
 
 </div>
 
