@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://gallo-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gallo--portfolio.vercel.app-e2340b?style=for-the-badge&amp;logo=astro&amp;logoColor=f3efe6&amp;labelColor=181511" alt="Portfolio" /></a>
+<a href="https://gallo-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gallotech.dev-e2340b?style=for-the-badge&amp;logo=astro&amp;logoColor=f3efe6&amp;labelColor=181511" alt="Portfolio" /></a>
 <a href="https://github.com/galloodevv"><img src="https://img.shields.io/badge/GitHub-galloodevv-181511?style=for-the-badge&amp;logo=github&amp;logoColor=f3efe6&amp;labelColor=181511" alt="GitHub" /></a>
 <a href="mailto:chetogallo77@gmail.com"><img src="https://img.shields.io/badge/Email-chetogallo77@gmail.com-e2340b?style=for-the-badge&amp;logo=gmail&amp;logoColor=f3efe6&amp;labelColor=181511" alt="Email" /></a>
 
